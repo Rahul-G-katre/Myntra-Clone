@@ -1,0 +1,33 @@
+.flex{
+  display: flex;
+
+}
+.items-center{
+  align-items: center;
+
+}
+.justify-content{
+  justify-content:center;
+}
+
+.space around {
+  justify-content: space-around;
+}
+/*justify-center space around
+
+
+
+
+style="position:sticky; top:0; background:white;
+/
+
+*/
+.mx-2{
+  margin-left: 24px;
+  margin-left: 24px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+
+}
